@@ -167,29 +167,6 @@ Users can dynamically filter the dashboard using
 - Customer Segmentation
 - Time Series Analysis
 - Performance Analytics
-
----
-
-# 📂 Repository Structure
-
-```
-📁 PhonePe-Digital-Payment-Analytics-Dashboard
-│
-├── PHONE PAY ANALYSIS.pbix
-├── Dataset.xlsx
-├── Dashboard.png
-├── README.md
-└── LICENSE
-```
-
----
-
-# 📷 Dashboard Preview
-
-```markdown
-![PhonePe Dashboard](Dashboard.png)
-```
-
 ---
 
 
